@@ -1,10 +1,10 @@
 ### <div align="center">I'm Junsu Jang, a back-end developer 👨‍💻 working since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [MindsLab - AICS](https://github.com/mindslab-ai)  
+- 🔭 I’m currently working on [MindsLab - Brain-Dev](https://github.com/mindslab-ai)  
   
 
-- 🌱 I am currently learning Spring-Cloud, MSA, MQ, TDD, Devops. And as a hobby, I'm learning Flutter and React.  
+- 🌱 I am currently learning Spring-Cloud, MSA, MQ, TDD, Devops.
 
 
 - 🤔 [My Commit Message Convention](https://bit.ly/3iIMCNZ)
