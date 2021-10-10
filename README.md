@@ -7,10 +7,10 @@ Company
 - (주)마인즈랩 (2020.03 ~ 2021.10) Software Engineer
 
 
-- 🌱 I am currently learning Spring-Cloud, MSA, MQ, TDD, Devops.
+🌱 I am currently learning Spring-Cloud, MSA, MQ, TDD, Devops.
 
 
-- 🤔 [My Commit Message Convention](https://bit.ly/3iIMCNZ)
+🤔 [My Commit Message Convention](https://bit.ly/3iIMCNZ)
   
 
 <br/>  
