@@ -5,6 +5,7 @@ Company
 - (유)슬렉슨 (2018.07 ~ 2019.06) Solution Engineer
 - (주)이지식스 (2019.07 ~ 2020.03) Software Engineer
 - (주)마인즈랩 (2020.03 ~ 2021.10) Software Engineer
+- (주)
 
 
 🌱 I am currently learning Spring-Cloud, MSA, MQ, TDD, Devops.
