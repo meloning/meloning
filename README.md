@@ -2,9 +2,9 @@
   
 Company
 
-- (유)슬렉슨 (2018.07 ~ 2019.06) Solution Engineer
-- (주)이지식스 (2019.07 ~ 2020.03) Software Engineer
-- (주)마인즈랩 (2020.03 ~ 2021.10) Software Engineer
+- (유)슬렉슨 (2018.07 ~ 2019.06) Solution Engineer, 산업기능요원 현역 복무시작 (2018.11)
+- (주)이지식스 (2019.07 ~ 2020.03) Software Engineer 산업기능요원 현역 복무중
+- (주)마인즈랩 (2020.03 ~ 2021.10) Software Engineer 산업기능요원 현역 복무만료 (2021.09)
 - (주)한국공간데이터 (2021.11 ~ Present) Software Engineer
 
 
