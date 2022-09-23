@@ -68,7 +68,7 @@ Company
 <br/>  
 
 ## Open Source Contribution
-- [SpringBoot + Kotlinx.Serialization Issue](https://github.com/spring-projects/spring-framework/issues/29008)
+- [SpringBoot + Kotlinx.Serialization Issue](https://github.com/spring-projects/spring-framework/issues/29008) -> SpringFramework v5.3.23 / SpringBoot v2.7.4 반영
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=meloning&&style=flat-square" align="center" />
