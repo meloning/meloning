@@ -2,10 +2,10 @@
   
 Company
 
-- (유)슬렉슨 (2018.07 ~ 2019.06) Solution Engineer, 산업기능요원 현역 복무시작 (2018.11)
-- (주)이지식스 (2019.07 ~ 2020.03) Software Engineer 산업기능요원 현역 복무중
-- (주)마인즈랩 (2020.03 ~ 2021.10) Software Engineer 산업기능요원 현역 복무만료 (2021.09)
 - (주)한국공간데이터 (2021.11 ~ 2022.12) Software Engineer
+- (주)마인즈랩 (2020.03 ~ 2021.10) Software Engineer 산업기능요원 현역 복무만료 (2021.09)
+- (주)이지식스 (2019.07 ~ 2020.03) Software Engineer 산업기능요원 현역 복무중
+- (유)슬렉슨 (2018.07 ~ 2019.06) Solution Engineer, 산업기능요원 현역 복무시작 (2018.11)
 
 
 🌱 I am currently learning Spring-Cloud, MSA, MQ, TDD, Devops.
@@ -68,7 +68,8 @@ Company
 <br/>  
 
 ## Open Source Contribution
-- [SpringBoot + Kotlinx.Serialization Issue](https://github.com/spring-projects/spring-framework/issues/29008) -> SpringFramework v5.3.23 / SpringBoot v2.7.4 반영
+- [SpringBoot RestTemplate + Kotlinx.Serialization Issue](https://github.com/spring-projects/spring-framework/issues/29008) 
+  - SpringFramework v5.3.23 / SpringBoot v2.7.4 반영
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=meloning&&style=flat-square" align="center" />
