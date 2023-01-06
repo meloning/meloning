@@ -9,9 +9,6 @@ Company
 
 
 🌱 I am currently learning Spring-Cloud, MSA, MQ, TDD, Devops.
-
-
-🤔 [My Commit Message Convention](https://bit.ly/3iIMCNZ)
   
 
 <br/>  
