@@ -53,6 +53,7 @@ Company
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
@@ -65,7 +66,7 @@ Company
 <br/>  
 
 ## Open Source Contribution
-- [SpringBoot RestTemplate + Kotlinx.Serialization Issue](https://github.com/spring-projects/spring-framework/issues/29008) 
+- [SpringBoot RestTemplate + Kotlinx.Serialization Issue/PR](https://github.com/spring-projects/spring-framework/issues/29008) 
   - SpringFramework v5.3.23 / SpringBoot v2.7.4 반영
 
 <p align="center">
