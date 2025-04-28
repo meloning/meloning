@@ -48,7 +48,7 @@
 - [SpringBoot RestTemplate + Kotlinx.Serialization Issue/PR](https://github.com/spring-projects/spring-framework/issues/29008)
   - SpringFramework v5.3.23 / SpringBoot v2.7.4 반영
 
-## Multi Module Tech Article
+## Tech Blog
 - [NBT 통합상점 기술블로그](https://nbt.com/portfolio/tech_store)
 
 <p align="center">
